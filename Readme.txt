@@ -7,3 +7,4 @@ git merge
 git init
 git push
 
+This line is added from a cloned project sandbox/newGitTestProj001
